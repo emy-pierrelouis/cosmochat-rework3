@@ -1,3 +1,4 @@
+// putting the video + assignment (task 3) together:
 import { useState } from 'react'
 import './App.css'
 import '@chatscope/chat-ui-kit-styles/dist/default/styles.min.css'
